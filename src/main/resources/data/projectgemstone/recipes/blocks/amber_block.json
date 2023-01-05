@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "projectgemstone:amber"
+    }
+  },
+  "result": {
+    "item": "projectgemstone:amber_block",
+    "count": 1
+  }
+}

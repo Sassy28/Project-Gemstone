@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectgemstone:amber_block"
+    }
+  ],
+  "result": {
+    "item": "projectgemstone:amber",
+    "count": 9
+  }
+}
