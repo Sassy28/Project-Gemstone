@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "projectgemstone:sphene"
+    }
+  },
+  "result": {
+    "item": "projectgemstone:sphene_block",
+    "count": 1
+  }
+}

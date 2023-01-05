@@ -1,0 +1,19 @@
+{
+  "block.projectgemstone.amber_block": "Amber Block",
+  "block.projectgemstone.almandine_block": "Almandine Block",
+  "block.projectgemstone.aquamarine_block": "Aquamarine Block",
+  "block.projectgemstone.azurite_block": "Azurite Block",
+  "block.projectgemstone.hematine_block": "Hematine Block",
+  "block.projectgemstone.malachite_block": "Malachite Block",
+  "block.projectgemstone.sphene_block": "Sphene Block",
+  "block.projectgemstone.uravorite_block": "Uravorite Block",
+
+  "item.projectgemstone.amber": "Amber",
+  "item.projectgemstone.almandine": "Almandine",
+  "item.projectgemstone.aquamarine": "Aquamarine",
+  "item.projectgemstone.azurite": "Azurite",
+  "item.projectgemstone.hematine": "Hematine",
+  "item.projectgemstone.malachite": "Malachite",
+  "item.projectgemstone.sphene": "Sphene",
+  "item.projectgemstone.uravorite": "Uravorite"
+}

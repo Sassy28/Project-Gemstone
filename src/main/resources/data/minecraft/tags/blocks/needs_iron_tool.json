@@ -1,6 +1,13 @@
 {
   "replace": false,
   "values": [
-    "projectgemstone:amber_block"
+    "projectgemstone:amber_block",
+    "projectgemstone:almandine_block",
+    "projectgemstone:aquamarine_block",
+    "projectgemstone:azurite_block",
+    "projectgemstone:hematine_block",
+    "projectgemstone:malachite_block",
+    "projectgemstone:sphene_block",
+    "projectgemstone:uravorite_block"
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "projectgemstone:almandine"
+    }
+  },
+  "result": {
+    "item": "projectgemstone:almandine_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "projectgemstone:hematine"
+    }
+  },
+  "result": {
+    "item": "projectgemstone:hematine_block",
+    "count": 1
+  }
+}
