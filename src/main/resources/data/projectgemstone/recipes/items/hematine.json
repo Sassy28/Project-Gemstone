@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectgemstone:hematine_block"
+    }
+  ],
+  "result": {
+    "item": "projectgemstone:hematine",
+    "count": 9
+  }
+}

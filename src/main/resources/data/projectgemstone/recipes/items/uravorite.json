@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projectgemstone:uravorite_block"
+    }
+  ],
+  "result": {
+    "item": "projectgemstone:uravorite",
+    "count": 9
+  }
+}
