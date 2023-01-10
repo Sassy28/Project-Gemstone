@@ -20,6 +20,6 @@ public class BlockRegistry {
     public static final RegistryObject<Block> HEMATINE_BLOCK = BLOCKS.register("hematine_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST, MaterialColor.COLOR_BLACK).strength(5.0f, 6.0f).sound(SoundType.AMETHYST).requiresCorrectToolForDrops()));
     public static final RegistryObject<Block> MALACHITE_BLOCK = BLOCKS.register("malachite_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST, MaterialColor.COLOR_GREEN).strength(5.0f, 6.0f).sound(SoundType.AMETHYST).requiresCorrectToolForDrops()));
     public static final RegistryObject<Block> SPHENE_BLOCK = BLOCKS.register("sphene_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST, MaterialColor.COLOR_LIGHT_GREEN).strength(5.0f, 6.0f).sound(SoundType.AMETHYST).requiresCorrectToolForDrops()));
-    public static final RegistryObject<Block> URAVORITE_BLOCK = BLOCKS.register("uravorite_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST, MaterialColor.COLOR_LIGHT_GREEN).strength(5.0f, 6.0f).sound(SoundType.AMETHYST).requiresCorrectToolForDrops()));
+    public static final RegistryObject<Block> UVAROVITE_BLOCK = BLOCKS.register("uvarovite_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST, MaterialColor.COLOR_LIGHT_GREEN).strength(5.0f, 6.0f).sound(SoundType.AMETHYST).requiresCorrectToolForDrops()));
 
 }
