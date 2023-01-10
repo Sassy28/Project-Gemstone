@@ -7,11 +7,11 @@
   ],
   "key": {
     "#": {
-      "item": "projectgemstone:uravorite"
+      "item": "projectgemstone:uvarovite"
     }
   },
   "result": {
-    "item": "projectgemstone:uravorite_block",
+    "item": "projectgemstone:uvarovite_block",
     "count": 1
   }
 }

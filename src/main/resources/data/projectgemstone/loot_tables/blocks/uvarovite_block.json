@@ -2,13 +2,13 @@
   "type": "minecraft:block",
   "pools": [
     {
-      "name": "uravorite_block",
+      "name": "uvarovite_block",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "projectgemstone:uravorite_block"
+          "name": "projectgemstone:uvarovite_block"
         }
       ]
     }

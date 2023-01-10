@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "projectgemstone:uravorite_block"
+      "item": "projectgemstone:uvarovite_block"
     }
   ],
   "result": {
-    "item": "projectgemstone:uravorite",
+    "item": "projectgemstone:uvarovite",
     "count": 9
   }
 }

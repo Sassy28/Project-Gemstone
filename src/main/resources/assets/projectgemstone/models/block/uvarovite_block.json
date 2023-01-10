@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "projectgemstone:blocks/uravorite_block"
+    "all": "projectgemstone:blocks/uvarovite_block"
   }
 }

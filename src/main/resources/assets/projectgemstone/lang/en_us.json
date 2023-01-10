@@ -6,7 +6,7 @@
   "block.projectgemstone.hematine_block": "Hematine Block",
   "block.projectgemstone.malachite_block": "Malachite Block",
   "block.projectgemstone.sphene_block": "Sphene Block",
-  "block.projectgemstone.uravorite_block": "Uravorite Block",
+  "block.projectgemstone.uvarovite_block": "Uvarovite Block",
 
   "item.projectgemstone.amber": "Amber",
   "item.projectgemstone.almandine": "Almandine",
@@ -15,7 +15,8 @@
   "item.projectgemstone.hematine": "Hematine",
   "item.projectgemstone.malachite": "Malachite",
   "item.projectgemstone.sphene": "Sphene",
-  "item.projectgemstone.uravorite": "Uravorite",
+  "item.projectgemstone.uvarovite": "Uvarovite",
+  "item.projectgemstone.ametrine": "Ametrine",
   "item.projectgemstone.embedded_amber": "Embedded Amber",
   "item.projectgemstone.embedded_almandine": "Embedded Almandine",
   "item.projectgemstone.embedded_aquamarine": "Embedded Aquamarine",
@@ -23,5 +24,6 @@
   "item.projectgemstone.embedded_hematine": "Embedded Hematine",
   "item.projectgemstone.embedded_malachite": "Embedded Malachite",
   "item.projectgemstone.embedded_sphene": "Embedded Sphene",
-  "item.projectgemstone.embedded_uravorite": "Embedded Uravorite"
+  "item.projectgemstone.embedded_uvarovite": "Embedded Uvarovite",
+  "item.projectgemstone.embedded_ametrine": "Embedded Ametrine"
 }
