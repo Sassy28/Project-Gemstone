@@ -21,6 +21,14 @@ public class ItemRegistry {
     public static final RegistryObject<Item> MALACHITE = ITEMS.register("malachite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> SPHENE = ITEMS.register("sphene", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> URAVORITE = ITEMS.register("uravorite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_AMBER = ITEMS.register("embedded_amber", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_ALMANDINE = ITEMS.register("embedded_almandine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_AQUAMARINE = ITEMS.register("embedded_aquamarine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_AZURITE = ITEMS.register("embedded_azurite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_HEMATINE = ITEMS.register("embedded_hematine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_MALACHITE = ITEMS.register("embedded_malachite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_SPHENE = ITEMS.register("embedded_sphene", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_URAVORITE = ITEMS.register("embedded_uravorite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
 
     //Blockitems
     public static final RegistryObject<Item> AMBER_BLOCK_ITEM = ITEMS.register("amber_block", () -> new BlockItem(BlockRegistry.AMBER_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
