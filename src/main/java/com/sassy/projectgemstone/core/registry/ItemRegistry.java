@@ -17,6 +17,8 @@ public class ItemRegistry {
     public static final RegistryObject<Item> ALMANDINE = ITEMS.register("almandine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> AQUAMARINE = ITEMS.register("aquamarine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> AZURITE = ITEMS.register("azurite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> BROOKITE = ITEMS.register("brookite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_BROOKITE = ITEMS.register("embedded_brookite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> HEMATINE = ITEMS.register("hematine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> MALACHITE = ITEMS.register("malachite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> SPHENE = ITEMS.register("sphene", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
