@@ -17,6 +17,7 @@
   "item.projectgemstone.sphene": "Sphene",
   "item.projectgemstone.uvarovite": "Uvarovite",
   "item.projectgemstone.ametrine": "Ametrine",
+  "item.projectgemstone.brookite": "Brookite",
   "item.projectgemstone.embedded_amber": "Embedded Amber",
   "item.projectgemstone.embedded_almandine": "Embedded Almandine",
   "item.projectgemstone.embedded_aquamarine": "Embedded Aquamarine",
@@ -25,5 +26,6 @@
   "item.projectgemstone.embedded_malachite": "Embedded Malachite",
   "item.projectgemstone.embedded_sphene": "Embedded Sphene",
   "item.projectgemstone.embedded_uvarovite": "Embedded Uvarovite",
-  "item.projectgemstone.embedded_ametrine": "Embedded Ametrine"
+  "item.projectgemstone.embedded_ametrine": "Embedded Ametrine",
+  "item.projectgemstone.embedded_brookite": "Embedded Brookite"
 }
