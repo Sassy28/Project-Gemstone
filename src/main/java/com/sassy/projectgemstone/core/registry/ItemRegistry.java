@@ -33,6 +33,10 @@ public class ItemRegistry {
     public static final RegistryObject<Item> EMBEDDED_UVAROVITE = ITEMS.register("embedded_uvarovite", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> AMETRINE = ITEMS.register("ametrine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
     public static final RegistryObject<Item> EMBEDDED_AMETRINE = ITEMS.register("embedded_ametrine", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> CHRYSOBERYL = ITEMS.register("chrysoberyl", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_CHRYSOBERYL = ITEMS.register("embedded_chrysoberyl", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> GROSSULAR = ITEMS.register("grossular", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
+    public static final RegistryObject<Item> EMBEDDED_GROSSULAR = ITEMS.register("embedded_grossular", () -> new Item(new Item.Properties().stacksTo(64).tab(CreativeModeTab.TAB_MATERIALS)));
 
 
     //Blockitems
@@ -44,5 +48,6 @@ public class ItemRegistry {
     public static final RegistryObject<Item> MALACHITE_BLOCK_ITEM = ITEMS.register("malachite_block", () -> new BlockItem(BlockRegistry.MALACHITE_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
     public static final RegistryObject<Item> SPHENE_BLOCK_ITEM = ITEMS.register("sphene_block", () -> new BlockItem(BlockRegistry.SPHENE_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
     public static final RegistryObject<Item> UVAROVITE_BLOCK_ITEM = ITEMS.register("uvarovite_block", () -> new BlockItem(BlockRegistry.UVAROVITE_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<Item> AMBER_FLOWER_BLOCK_ITEM = ITEMS.register("amber_flower_block", () -> new BlockItem(BlockRegistry.AMBER_FLOWER_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
 
 }
