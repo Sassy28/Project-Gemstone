@@ -10,6 +10,10 @@
 
   "block.projectgemstone.amber_flower_block": "Amber Flower",
   "block.projectgemstone.potted_amber_flower_block": "Potted Amber Flower",
+  "block.projectgemstone.azurite_flower_block": "Azurite Flower",
+  "block.projectgemstone.potted_azurite_flower_block": "Potted Azurite Flower",
+  "block.projectgemstone.hematine_flower_block": "Hematine Flower",
+  "block.projectgemstone.potted_hematine_flower_block": "Potted Hematine Flower",
 
   "item.projectgemstone.amber": "Amber",
   "item.projectgemstone.almandine": "Almandine",

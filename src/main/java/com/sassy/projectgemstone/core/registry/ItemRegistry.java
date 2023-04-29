@@ -49,5 +49,7 @@ public class ItemRegistry {
     public static final RegistryObject<Item> SPHENE_BLOCK_ITEM = ITEMS.register("sphene_block", () -> new BlockItem(BlockRegistry.SPHENE_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
     public static final RegistryObject<Item> UVAROVITE_BLOCK_ITEM = ITEMS.register("uvarovite_block", () -> new BlockItem(BlockRegistry.UVAROVITE_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
     public static final RegistryObject<Item> AMBER_FLOWER_BLOCK_ITEM = ITEMS.register("amber_flower_block", () -> new BlockItem(BlockRegistry.AMBER_FLOWER_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<Item> AZURITE_FLOWER_BLOCK_ITEM = ITEMS.register("azurite_flower_block", () -> new BlockItem(BlockRegistry.AZURITE_FLOWER_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<Item> HEMATINE_FLOWER_BLOCK_ITEM = ITEMS.register("hematine_flower_block", () -> new BlockItem(BlockRegistry.HEMATINE_FLOWER_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
 
 }

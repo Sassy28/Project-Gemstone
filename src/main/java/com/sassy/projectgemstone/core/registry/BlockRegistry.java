@@ -32,4 +32,9 @@ public class BlockRegistry {
     //Flowers
     public static final RegistryObject<Block> AMBER_FLOWER_BLOCK = BLOCKS.register("amber_flower_block", () -> new FlowerBlock(MobEffects.GLOWING, 5, BlockBehaviour.Properties.of(Material.PLANT).noCollission().instabreak().sound(SoundType.GRASS).offsetType(BlockBehaviour.OffsetType.XZ).lightLevel(setLightLevel)));
     public static final RegistryObject<Block> POTTED_AMBER_FLOWER_BLOCK = BLOCKS.register("potted_amber_flower_block",() -> new FlowerPotBlock(() -> ((FlowerPotBlock) Blocks.FLOWER_POT), BlockRegistry.AMBER_FLOWER_BLOCK,BlockBehaviour.Properties.copy(Blocks.POTTED_ALLIUM).lightLevel(setLightLevel)));
+    public static final RegistryObject<Block> AZURITE_FLOWER_BLOCK = BLOCKS.register("azurite_flower_block", () -> new FlowerBlock(MobEffects.GLOWING, 5, BlockBehaviour.Properties.of(Material.PLANT).noCollission().instabreak().sound(SoundType.GRASS).offsetType(BlockBehaviour.OffsetType.XZ).lightLevel(setLightLevel)));
+    public static final RegistryObject<Block> POTTED_AZURITE_FLOWER_BLOCK = BLOCKS.register("potted_azurite_flower_block",() -> new FlowerPotBlock(() -> ((FlowerPotBlock) Blocks.FLOWER_POT), BlockRegistry.AZURITE_FLOWER_BLOCK,BlockBehaviour.Properties.copy(Blocks.POTTED_ALLIUM).lightLevel(setLightLevel)));
+    public static final RegistryObject<Block> HEMATINE_FLOWER_BLOCK = BLOCKS.register("hematine_flower_block", () -> new FlowerBlock(MobEffects.GLOWING, 5, BlockBehaviour.Properties.of(Material.PLANT).noCollission().instabreak().sound(SoundType.GRASS).offsetType(BlockBehaviour.OffsetType.XZ).lightLevel(setLightLevel)));
+    public static final RegistryObject<Block> POTTED_HEMATINE_FLOWER_BLOCK = BLOCKS.register("potted_hematine_flower_block",() -> new FlowerPotBlock(() -> ((FlowerPotBlock) Blocks.FLOWER_POT), BlockRegistry.HEMATINE_FLOWER_BLOCK,BlockBehaviour.Properties.copy(Blocks.POTTED_ALLIUM).lightLevel(setLightLevel)));
+
 }
