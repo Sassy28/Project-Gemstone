@@ -26,6 +26,8 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import org.slf4j.Logger;
 
+import static com.sassy.projectgemstone.core.registry.BlockRegistry.HEMATINE_FLOWER_BLOCK;
+
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(ProjectGemstone.MODID)
 @Mod.EventBusSubscriber(modid = ProjectGemstone.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
@@ -55,8 +57,11 @@ public class ProjectGemstone
         event.enqueueWork(() -> {
 
             ((FlowerPotBlock)Blocks.FLOWER_POT).addPlant(BlockRegistry.AMBER_FLOWER_BLOCK.getId(), BlockRegistry.POTTED_AMBER_FLOWER_BLOCK);
+            ((FlowerPotBlock)Blocks.FLOWER_POT).addPlant(BlockRegistry.AZURITE_FLOWER_BLOCK.getId(), BlockRegistry.POTTED_AZURITE_FLOWER_BLOCK);
+            ((FlowerPotBlock)Blocks.FLOWER_POT).addPlant(BlockRegistry.HEMATINE_FLOWER_BLOCK.getId(), BlockRegistry.POTTED_HEMATINE_FLOWER_BLOCK);
         });
     }
+
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
     @SubscribeEvent
